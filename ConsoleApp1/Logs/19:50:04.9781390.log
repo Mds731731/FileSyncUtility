@@ -1,0 +1,19 @@
+
+19/12/2023 19:50:04 Commandline Arguement 0./srcFolder/
+19/12/2023 19:50:04 Commandline Arguement 1./dstFolder/
+19/12/2023 19:50:04 Commandline Arguement 3./Logs/
+19/12/2023 19:50:04 Preparing to copy file ...  ./dstFolder/abc.txt
+19/12/2023 19:50:04 Copying new file ... ./dstFolder/abc.txt
+19/12/2023 19:50:04 Preparing to copy Directory ... ./dstFolder/Folder1
+19/12/2023 19:50:04 Preparing to copy SubDirectory ... Folder1
+19/12/2023 19:50:04 Creating New SubDirectory ... /Users/md/Boxes/Windows11_SharedFolder/FileSyncUtility/ConsoleApp1/dstFolder/Folder1
+19/12/2023 19:50:04 Preparing to copy file ...  /Users/md/Boxes/Windows11_SharedFolder/FileSyncUtility/ConsoleApp1/dstFolder/Folder1def.txt
+19/12/2023 19:50:04 Copying new file ... /Users/md/Boxes/Windows11_SharedFolder/FileSyncUtility/ConsoleApp1/dstFolder/Folder1def.txt
+19/12/2023 19:50:04 Preparing to copy file ...  /Users/md/Boxes/Windows11_SharedFolder/FileSyncUtility/ConsoleApp1/dstFolder/Folder1folder1file.txt
+19/12/2023 19:50:04 Copying new file ... /Users/md/Boxes/Windows11_SharedFolder/FileSyncUtility/ConsoleApp1/dstFolder/Folder1folder1file.txt
+19/12/2023 19:50:04 Preparing to copy Directory ... /Users/md/Boxes/Windows11_SharedFolder/FileSyncUtility/ConsoleApp1/dstFolder/Folder1Folder2
+19/12/2023 19:50:04 Preparing to copy SubDirectory ... Folder2
+19/12/2023 19:50:04 Creating New SubDirectory ... /Users/md/Boxes/Windows11_SharedFolder/FileSyncUtility/ConsoleApp1/dstFolder/Folder1/Folder2
+19/12/2023 19:50:04 Preparing to copy file ...  /Users/md/Boxes/Windows11_SharedFolder/FileSyncUtility/ConsoleApp1/dstFolder/Folder1/Folder2folder2File.txt
+19/12/2023 19:50:04 Copying new file ... /Users/md/Boxes/Windows11_SharedFolder/FileSyncUtility/ConsoleApp1/dstFolder/Folder1/Folder2folder2File.txt
+19/12/2023 19:50:04 Total execution time 00:00:00.0047403Miliseconds

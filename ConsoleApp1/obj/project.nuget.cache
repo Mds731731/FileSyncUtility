@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kISIJBP7ctHO0+HI5EFFfSqcrULB808xNo/16dC5RDRBUCcg57jcq2+AebNdDpHv8KOuBsniUypyW2GTpmSkBA==",
+  "dgSpecHash": "car0E5mz1Nudwl0uCKJmwn8cGhKjsXx0XQyjfXznQuqJf6tGn3v6nFcZeVCMzQJ2YOcUUM57sw1QHf79cLbcEQ==",
   "success": true,
-  "projectFilePath": "/Users/md/Boxes/Windows11_SharedFolder/FileSynchronizerUtility/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "projectFilePath": "/Users/md/Boxes/Windows11_SharedFolder/FileSyncUtility/ConsoleApp1/ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/md/Boxes/Windows11_SharedFolder/FileSynchronizerUtility/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj": {}
+    "/Users/md/Boxes/Windows11_SharedFolder/FileSyncUtility/ConsoleApp1/ConsoleApp1.csproj": {}
   },
   "projects": {
-    "/Users/md/Boxes/Windows11_SharedFolder/FileSynchronizerUtility/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj": {
+    "/Users/md/Boxes/Windows11_SharedFolder/FileSyncUtility/ConsoleApp1/ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/md/Boxes/Windows11_SharedFolder/FileSynchronizerUtility/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+        "projectUniqueName": "/Users/md/Boxes/Windows11_SharedFolder/FileSyncUtility/ConsoleApp1/ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "/Users/md/Boxes/Windows11_SharedFolder/FileSynchronizerUtility/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+        "projectPath": "/Users/md/Boxes/Windows11_SharedFolder/FileSyncUtility/ConsoleApp1/ConsoleApp1.csproj",
         "packagesPath": "/Users/md/.nuget/packages/",
-        "outputPath": "/Users/md/Boxes/Windows11_SharedFolder/FileSynchronizerUtility/ConsoleApp1/ConsoleApp1/obj/",
+        "outputPath": "/Users/md/Boxes/Windows11_SharedFolder/FileSyncUtility/ConsoleApp1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/md/.nuget/NuGet/NuGet.Config"
