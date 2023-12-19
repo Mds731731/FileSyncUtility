@@ -30,8 +30,8 @@ public static string logPath = "./Logs/";
 
         try{
 
-//            if( cmdLineArgs != null && cmdLineArgs.Length > 3  && cmdLineArgs[2] != null && Int32.TryParse(cmdLineArgs[2], out Int32 TimerValue) ){
-{Int32 TimerValue = 12300;
+            if( cmdLineArgs != null && cmdLineArgs.Length > 3  && cmdLineArgs[2] != null && Int32.TryParse(cmdLineArgs[2], out Int32 TimerValue) ){
+//{Int32 TimerValue = 12300;
                 
 
                 //check Log File path exists...
