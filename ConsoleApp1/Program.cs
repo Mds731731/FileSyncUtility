@@ -37,20 +37,6 @@ public static string logPath = "./Logs/";
                 //check Log File path exists...
                 if( Directory.Exists(logPath) && Directory.Exists(srcPath) && Directory.Exists(dstPath) ){
 
-                   /* //create Log file
-                    string LogFileName = logPath + DateTime.Now.TimeOfDay.ToString() + ".log" ;
-                
-                    logStreamWriter = new StreamWriter(LogFileName);
-
-                        foreach(string arg in cmdLineArgs){
-
-                        logStreamWriter.Write(LogsConsole("Commandline Arguement " + arg));
-                    }
-
-                    //OneWayFolderSync(new DirectoryInfo(srcPath), new DirectoryInfo(dstPath), logPath);
-                    */
-
-
                     //----------------
                     // Create a timer and set a two second interval.
                     System.Timers.Timer timerToTrigger = new System.Timers.Timer();
